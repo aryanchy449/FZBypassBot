@@ -24,15 +24,15 @@ async def start_msg(client, message):
     
     <i><b>Bot Started {convert_time(time() - BOT_START)} ago...</b></i>
 
-🛃 <b>Use Me Here :</b> @CyberPunkGrp <i>(Bypass Topic)</i>""",
+🛃 <b>Use Me Here :</b>  <i>(Bypass Topic)</i>""",
         quote=True,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("🎓 Dev", url="https://t.me/SilentDemonSD"),
+                    InlineKeyboardButton("🎓 Dev", url="https://t.me/aryanchy449"),
                     InlineKeyboardButton(
                         "🔍 Deploy Own",
-                        url="https://github.com/SilentDemonSD/FZBypassBot",
+                        url="https://github.com/",
                     ),
                 ]
             ]
