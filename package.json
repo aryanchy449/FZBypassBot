@@ -1,5 +1,1 @@
-{
-  "main": "update.py",
-  "scripts": {
-    "start": "bash start.sh"
-  }
+
