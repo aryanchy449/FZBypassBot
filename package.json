@@ -1,0 +1,7 @@
+{
+  "name": "bookmark-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "bash start.sh"
+  }
